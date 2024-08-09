@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_sqlite_app/helpers/livro_helper.dart';
-import 'package:flutter_sqlite_app/widgets/CustomFormField.dart';
-import 'package:flutter_sqlite_app/widgets/CustomRatingBar.dart';
+import 'package:flutter_sqlite_app/widgets/custom_form_field.dart';
+import 'package:flutter_sqlite_app/widgets/custom_rating_bar.dart';
 
 import '../domain/livro.dart';
 
